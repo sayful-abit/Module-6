@@ -185,3 +185,69 @@
     font-size: 13px;
     color: #3a3a3a;
 }
+#fency-red{
+    color: #e7385e;
+}
+
+.text-sec{
+    text-align: center;
+}
+.hot-deal-section{
+    display: flex;
+    background-color:  #f8efef;
+    padding: 80px;
+}
+.text-sec{
+    width: 50%;
+    padding-left: 50px;
+}
+.flower-section{
+    width: 50%;
+    height: 130px;
+    padding-left: 100px;
+}
+.flower-section >img{
+    width: 200px;
+    padding-left: 100px;
+    padding-bottom: 80px;
+}
+.deal-title{
+    font-size: 22px;
+}
+.deal-des{
+    font-size: 14px;
+    color: #585656;
+}
+.insta-description{
+    font-size: 14pxpx;
+    color: #585656;
+}
+.insta-content{
+    text-align: center;
+    margin-top: 100px;
+
+}
+.insta-titlr >h3{
+    font-size: 28pxpx;
+}
+.insta-description{
+    font-size: 14px;
+}
+
+.insta-image-section{
+    display: flex;
+    gap: 15px;
+    margin-top: 50px;
+}
+.insta-image-section .img{
+    width: auto;
+    height: 200px;
+}
+.insta-titlr{
+    font-size: 22px;
+}
+
+.footer{
+    align-items: center;
+}
+
