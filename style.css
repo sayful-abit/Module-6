@@ -225,10 +225,12 @@
 .insta-content{
     text-align: center;
     margin-top: 100px;
+    margin-bottom: 50px;
 
 }
 .insta-titlr >h3{
-    font-size: 28pxpx;
+    font-size: 28px;
+    color: #000000;
 }
 .insta-description{
     font-size: 14px;
@@ -247,7 +249,56 @@
     font-size: 22px;
 }
 
-.footer{
-    align-items: center;
+/* CTA Section */
+.cta-section{
+    background-image: url("./aset/Rectangle 9.png");
+    max-height: 350px;
+    text-align: center;
+    padding: 50px;
 }
+.from{
+    display: flex;
+    padding-left: 320px;
+    gap: 25px;
+    margin: 30px 15px;
+}
+.cta-title{
+    font-size: 24px;
+    color: rgb(0, 0, 0);
+}
+.cta-des{
+    font-size: 14px;
+}
+input{
+    border-style: none;
+    /* padding: 15px; */
+    width: 350px;
+    border-radius: 5px;
+    margin-top: 25px;
+}
+
+/* Footer Section */
+
+footer{
+    text-align: center;
+    height: 350px;
+    background-color: #292929;
+    padding: 130px;
+    height: 200px;
+    margin-top: 50px;
+}
+.foot-des{
+    font-size: 14px;
+    color: #f8efef;
+}
+.foot-title >h3{
+    color: white;
+    font-size: 25px;
+}
+.foot-coppy{
+    font-size: 16px;
+    color: #969595;
+    padding-top: 15px;
+}
+
 
